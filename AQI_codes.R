@@ -23,7 +23,7 @@ model = lm(data$Obs1~data$Station)
 anova(model)
 
 #--------------------------------------------------------------------------
-# Linear and Logistic Regression Models
+# Linear and Multinomial Logistic Regression Models
 
 # Importing Dataset and Libraries -----------------------------------------
 
